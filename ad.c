@@ -3,8 +3,6 @@ int main(){
 printf("*****");
 printf("*****");
 
-yudsviasvfiubaofu
-
 
 printf("*****");
 
